@@ -89,7 +89,7 @@ nav ul li a:hover {
 .hero {
     position: relative;
     text-align: center;
-    color: var(--white);
+    color: var(--dark-blue);
 }
 
 .hero-content {
